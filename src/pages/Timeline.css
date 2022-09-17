@@ -1,0 +1,29 @@
+#chip-avatar{
+    display: flex;
+    justify-content: center;
+}
+
+#chip-avatar .e-booking {
+	background-color: #0f3cdb;
+    color: white
+}
+
+#chip-avatar .e-reserved {
+	background-color: #5c13c2;
+    color: white
+}
+
+#chip-avatar .e-rental {
+	background-color: #e07924;
+    color: white
+}
+
+#chip-avatar .e-open {
+	background-color: #a8a42a;
+    color: white
+}
+
+#chip-avatar .e-service {
+	background-color: #eb4034;
+    color: white
+}
